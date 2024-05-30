@@ -1,5 +1,21 @@
-# How to Use
+# Design Database
+![image](https://github.com/afidyoga/uts-development-framework/assets/83437629/21e02900-dd7d-4d4b-92ef-06cbb0f0ac9e)
 
+# Features
+* POS
+* Orders
+  * Pending Orders
+  * Complete Orders
+  * Pending Due
+* Purchases
+  * All Purchases
+  * Approval Purchases
+  * Purchase Report
+* Products
+* Customers
+* Suppliers
+
+# How to Use
 1. Clone Repositori:
 ```
 git clone https://github.com/afidyoga/uts-development-framework
