@@ -1,16 +1,16 @@
 # How to Use
 
-1. Clone Repository:
+1. Clone Repositori:
 ```
 git clone https://github.com/afidyoga/uts-development-framework
 ```
 
-2. Go into the repository:
+2. Masuk ke Repositori::
 ```
 cd uts-development-framework
 ```
 
-3. Install Packages:
+3. Install Paket:
 ```
 composer install
 ```
@@ -25,9 +25,9 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-6. Setting up your database credentials in your ``.env`` file.
+6. Setting kredensial database Anda di file ``.env`` Anda.
 
-7. Seed Database:
+8. Seed Database:
 ```
 php artisan migrate:fresh --seed
 ```
@@ -47,11 +47,11 @@ npm install && npm run dev
 php artisan serve
 ```
 
-11. Try login with email:
+11. Coba login dengan email::
 ```
 admin@admin.com
 ```
-and password:
+dan password:
 ```
 password
 ```
