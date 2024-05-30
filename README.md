@@ -1,4 +1,5 @@
-# Tampilan Halaman Web
+# Tampilan Halaman Web 
+Manajemen Inventaris Laravel 10 and MySql.
 ![profile](https://github.com/afidyoga/uts-development-framework/assets/83437629/d7b33624-e50c-47ef-a21e-1106f2b84e29)
 
 # Design Database
